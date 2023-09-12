@@ -1,48 +1,48 @@
 {
-asset: {
-version: "1.0"
+    "asset": {
+        "version": "1.0"
 },
-properties: {
-attributes: { },
-gml_id: { },
-名称: { },
-用途: { },
-住所: { },
-地上階数: {
-minimum: 1,
-maximum: 42
+"properties": {
+"attributes": { },
+"gml_id": { },
+"名称": { },
+"用途": { },
+"住所": { },
+"地上階数": {
+"minimum": 1,
+"maximum": 42
 },
-地下階数: {
-minimum: 0,
-maximum: 5
+"地下階数": {
+"minimum": 0,
+"maximum": 5
 },
-計測高さ: {
-minimum: 2.1,
-maximum: 214
+"計測高さ": {
+"minimum": 2.1,
+"maximum": 214
 },
-建物利用現況（詳細分類）: { },
-耐火構造種別: { },
-神田川流域（都道府県管理区間）_L2（想定最大規模）_浸水ランク: {
-minimum: 1,
-maximum: 3
+"建物利用現況（詳細分類）": { },
+"耐火構造種別": { },
+"神田川流域（都道府県管理区間）_L2（想定最大規模）_浸水ランク": {
+"minimum": 1,
+"maximum": 3
 },
-荒川水系荒川（国管理区間）_L1（計画規模）_浸水ランク: {
-minimum: 1,
-maximum: 2
+"荒川水系荒川（国管理区間）_L1（計画規模）_浸水ランク": {
+"minimum": 1,
+"maximum": 2
 },
-荒川水系荒川（国管理区間）_L2（想定最大規模）_浸水ランク: {
-minimum: 1,
-maximum: 3
+"荒川水系荒川（国管理区間）_L2（想定最大規模）_浸水ランク": {
+"minimum": 1,
+"maximum": 3
 },
-荒川水系隅田川・新河岸川流域（都道府県管理区間）_L2（想定最大規模）_浸水ランク: {
-minimum: 1,
-maximum: 3
+"荒川水系隅田川・新河岸川流域（都道府県管理区間）_L2（想定最大規模）_浸水ランク": {
+"minimum": 1,
+"maximum": 3
 }
 },
-geometricError: 413.27821495815175,
-root: {
-boundingVolume: {
-region: [
+"geometricError": 413.27821495815175,
+"root": {
+"boundingVolume": {
+"region": [
 2.438753712273588,
 0.622541685107154,
 2.439669520160431,
@@ -51,11 +51,11 @@ region: [
 243.27157051925863
 ]
 },
-geometricError: 413.27821495815175,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 413.27821495815175,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4388083583372064,
 0.6226052357701982,
 2.4395250153917396,
@@ -64,12 +64,12 @@ region: [
 243.27157051925863
 ]
 },
-uri: "data/data194.b3dm"
+"uri": "data/data194.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4392084641649525,
 0.6228536797694071,
 2.439669520160431,
@@ -78,11 +78,11 @@ region: [
 234.46381023665376
 ]
 },
-geometricError: 238.62959321911737,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 238.62959321911737,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4392084641649525,
 0.6228536797694071,
 2.4395259727784446,
@@ -91,12 +91,12 @@ region: [
 234.46381023665376
 ]
 },
-uri: "data/data69.b3dm"
+"uri": "data/data69.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439440568188721,
 0.6230154115066148,
 2.439669520160431,
@@ -105,11 +105,11 @@ region: [
 180.0618426891619
 ]
 },
-geometricError: 238.63633251366016,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 238.63633251366016,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4394426657019275,
 0.6230246918878453,
 2.4396132889766684,
@@ -118,12 +118,12 @@ region: [
 180.0618426891619
 ]
 },
-uri: "data/data15.b3dm"
+"uri": "data/data15.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4394389621931434,
 0.6230926885132432,
 2.4395550441745764,
@@ -132,11 +132,11 @@ region: [
 171.7078371290026
 ]
 },
-geometricError: 132.14852507859268,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 132.14852507859268,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4394389621931434,
 0.6230926885132432,
 2.4395403585488142,
@@ -145,12 +145,12 @@ region: [
 171.7078371290026
 ]
 },
-uri: "data/data4.b3dm"
+"uri": "data/data4.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4394963209338716,
 0.6231338431064799,
 2.4395550441745764,
@@ -159,11 +159,11 @@ region: [
 74.87706101522534
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4394963209338716,
 0.623134796241564,
 2.439502745143433,
@@ -172,13 +172,13 @@ region: [
 74.87706101522534
 ]
 },
-uri: "data/data0.b3dm"
+"uri": "data/data0.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439440568188721,
 0.6231338431064799,
 2.439498157798862,
@@ -187,11 +187,11 @@ region: [
 83.73948767400157
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.43944262138832,
 0.6231349278036012,
 2.439498157798862,
@@ -200,13 +200,13 @@ region: [
 83.73948767400157
 ]
 },
-uri: "data/data1.b3dm"
+"uri": "data/data1.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4394958259096855,
 0.6230938063981856,
 2.4395550441745764,
@@ -215,11 +215,11 @@ region: [
 114.76769842972726
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4394958259096855,
 0.6230938063981856,
 2.439540658186758,
@@ -228,13 +228,13 @@ region: [
 114.76769842972726
 ]
 },
-uri: "data/data2.b3dm"
+"uri": "data/data2.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4394389621931434,
 0.6230926885132432,
 2.4394987138722977,
@@ -243,11 +243,11 @@ region: [
 171.7078371290026
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4394389621931434,
 0.6230926885132432,
 2.4394987138722977,
@@ -256,15 +256,15 @@ region: [
 171.7078371290026
 ]
 },
-uri: "data/data3.b3dm"
+"uri": "data/data3.b3dm"
 },
-children: [ ]
+"children": [ ]
 }
 ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4395550441745764,
 0.6230154115066148,
 2.439669520160431,
@@ -273,11 +273,11 @@ region: [
 92.05221567517953
 ]
 },
-geometricError: 91.85728966042284,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 91.85728966042284,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439555881500504,
 0.6230155465788092,
 2.439649224012802,
@@ -286,12 +286,12 @@ region: [
 92.05221567517953
 ]
 },
-uri: "data/data9.b3dm"
+"uri": "data/data9.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439611571733397,
 0.6230548887065699,
 2.439669520160431,
@@ -300,11 +300,11 @@ region: [
 70.27801884397206
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439611571733397,
 0.623054954900052,
 2.439628432261819,
@@ -313,13 +313,13 @@ region: [
 70.27801884397206
 ]
 },
-uri: "data/data5.b3dm"
+"uri": "data/data5.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439554381583302,
 0.6230541235701994,
 2.4396132889766684,
@@ -328,11 +328,11 @@ region: [
 92.05221567517953
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439554381583302,
 0.6230541235701994,
 2.4396132889766684,
@@ -341,13 +341,13 @@ region: [
 92.05221567517953
 ]
 },
-uri: "data/data6.b3dm"
+"uri": "data/data6.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4396115660338458,
 0.6230131085401099,
 2.439669520160431,
@@ -356,11 +356,11 @@ region: [
 83.38647351805645
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4396115660338458,
 0.6230131085401099,
 2.4396690646807957,
@@ -369,13 +369,13 @@ region: [
 83.38647351805645
 ]
 },
-uri: "data/data7.b3dm"
+"uri": "data/data7.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4395541566706127,
 0.6230142592320359,
 2.4396129449001296,
@@ -384,11 +384,11 @@ region: [
 80.47107100396397
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4395541566706127,
 0.6230142592320359,
 2.4396129449001296,
@@ -397,15 +397,15 @@ region: [
 80.47107100396397
 ]
 },
-uri: "data/data8.b3dm"
+"uri": "data/data8.b3dm"
 },
-children: [ ]
+"children": [ ]
 }
 ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439440568188721,
 0.6230154115066148,
 2.43955525141768,
@@ -414,11 +414,11 @@ region: [
 180.0618426891619
 ]
 },
-geometricError: 238.63970202113424,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 238.63970202113424,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4394426657019275,
 0.6230184837149253,
 2.43955525141768,
@@ -427,12 +427,12 @@ region: [
 180.0618426891619
 ]
 },
-uri: "data/data14.b3dm"
+"uri": "data/data14.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4394801855592436,
 0.6230523018637022,
 2.439555981674537,
@@ -441,11 +441,11 @@ region: [
 169.94412313207025
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4394801855592436,
 0.6230523018637022,
 2.439555981674537,
@@ -454,13 +454,13 @@ region: [
 169.94412313207025
 ]
 },
-uri: "data/data10.b3dm"
+"uri": "data/data10.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439437907720157,
 0.6230542246508313,
 2.4394991920762674,
@@ -469,11 +469,11 @@ region: [
 180.0618426891619
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439437907720157,
 0.6230542246508313,
 2.4394991920762674,
@@ -482,13 +482,13 @@ region: [
 180.0618426891619
 ]
 },
-uri: "data/data11.b3dm"
+"uri": "data/data11.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439479953689698,
 0.6230146267421993,
 2.439556123757597,
@@ -497,11 +497,11 @@ region: [
 91.50336694683794
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439479953689698,
 0.6230146267421993,
 2.439556123757597,
@@ -510,13 +510,13 @@ region: [
 91.50336694683794
 ]
 },
-uri: "data/data12.b3dm"
+"uri": "data/data12.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439440346452237,
 0.623014609141977,
 2.4394978061816484,
@@ -525,11 +525,11 @@ region: [
 138.00918397110516
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439440346452237,
 0.623014609141977,
 2.43949584032969,
@@ -538,17 +538,17 @@ region: [
 138.00918397110516
 ]
 },
-uri: "data/data13.b3dm"
+"uri": "data/data13.b3dm"
 },
-children: [ ]
+"children": [ ]
 }
 ]
 }
 ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4392116162170097,
 0.6230154115066148,
 2.439440568188721,
@@ -557,11 +557,11 @@ region: [
 159.87665896453294
 ]
 },
-geometricError: 136.84584687826825,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 136.84584687826825,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4392290302095643,
 0.6230174849973972,
 2.4394384677073995,
@@ -570,12 +570,12 @@ region: [
 159.87665896453294
 ]
 },
-uri: "data/data32.b3dm"
+"uri": "data/data32.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4393260922028652,
 0.6230943659065249,
 2.439441511428369,
@@ -584,11 +584,11 @@ region: [
 91.60585167648941
 ]
 },
-geometricError: 56.81480751713578,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 56.81480751713578,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4393841045044407,
 0.6230994475123214,
 2.439441511428369,
@@ -597,12 +597,12 @@ region: [
 91.60585167648941
 ]
 },
-uri: "data/data18.b3dm"
+"uri": "data/data18.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439383330195793,
 0.6231338431064799,
 2.439440568188721,
@@ -611,11 +611,11 @@ region: [
 79.03389398198127
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439412521282804,
 0.6231352065037742,
 2.439440271073761,
@@ -624,13 +624,13 @@ region: [
 79.03389398198127
 ]
 },
-uri: "data/data16.b3dm"
+"uri": "data/data16.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439381371209188,
 0.6230939072180007,
 2.439441511428369,
@@ -639,11 +639,11 @@ region: [
 91.60585167648941
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439381371209188,
 0.6230939072180007,
 2.439441511428369,
@@ -652,15 +652,15 @@ region: [
 91.60585167648941
 ]
 },
-uri: "data/data17.b3dm"
+"uri": "data/data17.b3dm"
 },
-children: [ ]
+"children": [ ]
 }
 ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4392116162170097,
 0.6230921850022297,
 2.4393260922028652,
@@ -669,11 +669,11 @@ region: [
 118.65711429942726
 ]
 },
-geometricError: 76.18815297719446,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 76.18815297719446,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4392176558550793,
 0.6230921850022297,
 2.439299859250051,
@@ -682,12 +682,12 @@ region: [
 118.65711429942726
 ]
 },
-uri: "data/data21.b3dm"
+"uri": "data/data21.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439268386917098,
 0.6230939245375515,
 2.4393260922028652,
@@ -696,11 +696,11 @@ region: [
 108.46170795559884
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439268386917098,
 0.6230939245375515,
 2.439303756199016,
@@ -709,13 +709,13 @@ region: [
 108.46170795559884
 ]
 },
-uri: "data/data19.b3dm"
+"uri": "data/data19.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4392084091911825,
 0.6230921850022297,
 2.43926939722309,
@@ -724,11 +724,11 @@ region: [
 118.65711429942726
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4392084091911825,
 0.6230921850022297,
 2.43926939722309,
@@ -737,15 +737,15 @@ region: [
 118.65711429942726
 ]
 },
-uri: "data/data20.b3dm"
+"uri": "data/data20.b3dm"
 },
-children: [ ]
+"children": [ ]
 }
 ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439323242901575,
 0.6230154115066148,
 2.439440568188721,
@@ -754,11 +754,11 @@ region: [
 159.87665896453294
 ]
 },
-geometricError: 136.8439145829935,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 136.8439145829935,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439323242901575,
 0.6230174849973972,
 2.4394384677073995,
@@ -767,12 +767,12 @@ region: [
 159.87665896453294
 ]
 },
-uri: "data/data26.b3dm"
+"uri": "data/data26.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4393802414602663,
 0.6230519815167567,
 2.4394411852638145,
@@ -781,11 +781,11 @@ region: [
 159.87665896453294
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4393802414602663,
 0.6230519815167567,
 2.4394411852638145,
@@ -794,13 +794,13 @@ region: [
 159.87665896453294
 ]
 },
-uri: "data/data22.b3dm"
+"uri": "data/data22.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439324188778418,
 0.623053154967488,
 2.4393840786728824,
@@ -809,11 +809,11 @@ region: [
 143.75287677156138
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439324188778418,
 0.623053154967488,
 2.4393840786728824,
@@ -822,13 +822,13 @@ region: [
 143.75287677156138
 ]
 },
-uri: "data/data23.b3dm"
+"uri": "data/data23.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439381489608146,
 0.6230140840638482,
 2.439442368012917,
@@ -837,11 +837,11 @@ region: [
 136.23897698916076
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439381489608146,
 0.6230140840638482,
 2.439442368012917,
@@ -850,13 +850,13 @@ region: [
 136.23897698916076
 ]
 },
-uri: "data/data24.b3dm"
+"uri": "data/data24.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439323242901575,
 0.6230139286612386,
 2.439385946690209,
@@ -865,11 +865,11 @@ region: [
 149.3664639037334
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439323242901575,
 0.6230139286612386,
 2.439385946690209,
@@ -878,15 +878,15 @@ region: [
 149.3664639037334
 ]
 },
-uri: "data/data25.b3dm"
+"uri": "data/data25.b3dm"
 },
-children: [ ]
+"children": [ ]
 }
 ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439210361664096,
 0.6230154115066148,
 2.4393271613636753,
@@ -895,11 +895,11 @@ region: [
 135.14606564085258
 ]
 },
-geometricError: 115.21595751614144,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 115.21595751614144,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439210361664096,
 0.6230162865036927,
 2.4393271613636753,
@@ -908,12 +908,12 @@ region: [
 135.14606564085258
 ]
 },
-uri: "data/data31.b3dm"
+"uri": "data/data31.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4392646762793917,
 0.6230527862860613,
 2.4393267880483696,
@@ -922,11 +922,11 @@ region: [
 135.14606564085258
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4392646762793917,
 0.6230527862860613,
 2.4393267880483696,
@@ -935,13 +935,13 @@ region: [
 135.14606564085258
 ]
 },
-uri: "data/data27.b3dm"
+"uri": "data/data27.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4392098497098256,
 0.6230532529418276,
 2.4392706871096115,
@@ -950,11 +950,11 @@ region: [
 99.11386238254784
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4392098497098256,
 0.6230532529418276,
 2.4392706871096115,
@@ -963,13 +963,13 @@ region: [
 99.11386238254784
 ]
 },
-uri: "data/data28.b3dm"
+"uri": "data/data28.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439265409372918,
 0.6230130692431188,
 2.439328181567116,
@@ -978,11 +978,11 @@ region: [
 107.71538242674131
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439265409372918,
 0.6230130692431188,
 2.439328181567116,
@@ -991,13 +991,13 @@ region: [
 107.71538242674131
 ]
 },
-uri: "data/data29.b3dm"
+"uri": "data/data29.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4392096413311757,
 0.6230141418820209,
 2.4392717909561283,
@@ -1006,11 +1006,11 @@ region: [
 86.40616689887972
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4392096413311757,
 0.6230141418820209,
 2.4392717909561283,
@@ -1019,17 +1019,17 @@ region: [
 86.40616689887972
 ]
 },
-uri: "data/data30.b3dm"
+"uri": "data/data30.b3dm"
 },
-children: [ ]
+"children": [ ]
 }
 ]
 }
 ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.43943828636634,
 0.6228575027067945,
 2.439669520160431,
@@ -1038,11 +1038,11 @@ region: [
 125.49642384598883
 ]
 },
-geometricError: 211.79448668282043,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 211.79448668282043,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.43943828636634,
 0.6229159946553647,
 2.439667153570518,
@@ -1051,12 +1051,12 @@ region: [
 125.49642384598883
 ]
 },
-uri: "data/data48.b3dm"
+"uri": "data/data48.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439551094890951,
 0.6229364571067046,
 2.439669520160431,
@@ -1065,11 +1065,11 @@ region: [
 114.09379210850389
 ]
 },
-geometricError: 75.911270253092,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 75.911270253092,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439551094890951,
 0.6229389007174306,
 2.439667153570518,
@@ -1078,12 +1078,12 @@ region: [
 114.09379210850389
 ]
 },
-uri: "data/data37.b3dm"
+"uri": "data/data37.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4396119763138007,
 0.6229746446584635,
 2.439669520160431,
@@ -1092,11 +1092,11 @@ region: [
 80.25589953662003
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4396119763138007,
 0.6229746446584635,
 2.439669520160431,
@@ -1105,13 +1105,13 @@ region: [
 80.25589953662003
 ]
 },
-uri: "data/data33.b3dm"
+"uri": "data/data33.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439551094890951,
 0.6229730988661,
 2.439613875363329,
@@ -1120,11 +1120,11 @@ region: [
 98.07656754970999
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439551094890951,
 0.6229730988661,
 2.439613875363329,
@@ -1133,13 +1133,13 @@ region: [
 98.07656754970999
 ]
 },
-uri: "data/data34.b3dm"
+"uri": "data/data34.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439610035047073,
 0.6229364571067046,
 2.439669520160431,
@@ -1148,11 +1148,11 @@ region: [
 85.16076795224119
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439610035047073,
 0.622958612954657,
 2.4396477659310714,
@@ -1161,13 +1161,13 @@ region: [
 85.16076795224119
 ]
 },
-uri: "data/data35.b3dm"
+"uri": "data/data35.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4395540881409987,
 0.6229355186652655,
 2.4396130212225033,
@@ -1176,11 +1176,11 @@ region: [
 114.09379210850389
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4395540881409987,
 0.6229355186652655,
 2.4396130212225033,
@@ -1189,15 +1189,15 @@ region: [
 114.09379210850389
 ]
 },
-uri: "data/data36.b3dm"
+"uri": "data/data36.b3dm"
 },
-children: [ ]
+"children": [ ]
 }
 ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439440568188721,
 0.6229230573111451,
 2.4395564498969318,
@@ -1206,11 +1206,11 @@ region: [
 123.27237801409149
 ]
 },
-geometricError: 205.25279617984077,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 205.25279617984077,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4394536776574256,
 0.6229230573111451,
 2.4395564498969318,
@@ -1219,12 +1219,12 @@ region: [
 123.27237801409149
 ]
 },
-uri: "data/data42.b3dm"
+"uri": "data/data42.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.43949588953191,
 0.6229738274279677,
 2.4395571199843356,
@@ -1233,11 +1233,11 @@ region: [
 123.27237801409149
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.43949588953191,
 0.6229738274279677,
 2.4395571199843356,
@@ -1246,13 +1246,13 @@ region: [
 123.27237801409149
 ]
 },
-uri: "data/data38.b3dm"
+"uri": "data/data38.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4394399447529507,
 0.6229750296078411,
 2.439499842422702,
@@ -1261,11 +1261,11 @@ region: [
 85.59644756964835
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4394399447529507,
 0.6229750296078411,
 2.439499842422702,
@@ -1274,13 +1274,13 @@ region: [
 85.59644756964835
 ]
 },
-uri: "data/data39.b3dm"
+"uri": "data/data39.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439494463463395,
 0.6229347916711616,
 2.4395564498969318,
@@ -1289,11 +1289,11 @@ region: [
 84.31613446598513
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439494463463395,
 0.6229347916711616,
 2.4395564498969318,
@@ -1302,13 +1302,13 @@ region: [
 84.31613446598513
 ]
 },
-uri: "data/data40.b3dm"
+"uri": "data/data40.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4394374007284285,
 0.6229230573111451,
 2.4394990876920795,
@@ -1317,11 +1317,11 @@ region: [
 86.35854062701384
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4394374007284285,
 0.6229230573111451,
 2.4394990876920795,
@@ -1330,15 +1330,15 @@ region: [
 86.35854062701384
 ]
 },
-uri: "data/data41.b3dm"
+"uri": "data/data41.b3dm"
 },
-children: [ ]
+"children": [ ]
 }
 ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4395541356966057,
 0.6228575027067945,
 2.439669520160431,
@@ -1347,11 +1347,11 @@ region: [
 57.841998754708655
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4395541356966057,
 0.622931793005549,
 2.4395606937313494,
@@ -1360,13 +1360,13 @@ region: [
 57.841998754708655
 ]
 },
-uri: "data/data43.b3dm"
+"uri": "data/data43.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.43943828636634,
 0.6228575027067945,
 2.4395550441745764,
@@ -1375,11 +1375,11 @@ region: [
 125.49642384598883
 ]
 },
-geometricError: 211.79452655329158,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 211.79452655329158,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.43943828636634,
 0.6228940032820387,
 2.4395405456746424,
@@ -1388,12 +1388,12 @@ region: [
 125.49642384598883
 ]
 },
-uri: "data/data47.b3dm"
+"uri": "data/data47.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4394951132680367,
 0.6228969799067495,
 2.4395550441745764,
@@ -1402,11 +1402,11 @@ region: [
 84.00646272963814
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4394951132680367,
 0.6229121080233593,
 2.4395540562099947,
@@ -1415,13 +1415,13 @@ region: [
 84.00646272963814
 ]
 },
-uri: "data/data44.b3dm"
+"uri": "data/data44.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.43943828636634,
 0.6228969799067495,
 2.4395000917000957,
@@ -1430,11 +1430,11 @@ region: [
 125.49642384598883
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.43943828636634,
 0.6228977959115063,
 2.4395000917000957,
@@ -1443,13 +1443,13 @@ region: [
 125.49642384598883
 ]
 },
-uri: "data/data45.b3dm"
+"uri": "data/data45.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439440151401901,
 0.6228575027067945,
 2.4394978061816484,
@@ -1458,11 +1458,11 @@ region: [
 81.18140443046852
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439440151401901,
 0.6228940032820387,
 2.4394422448620077,
@@ -1471,17 +1471,17 @@ region: [
 81.18140443046852
 ]
 },
-uri: "data/data46.b3dm"
+"uri": "data/data46.b3dm"
 },
-children: [ ]
+"children": [ ]
 }
 ]
 }
 ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4392084641649525,
 0.6228536797694071,
 2.439440568188721,
@@ -1490,11 +1490,11 @@ region: [
 234.46381023665376
 ]
 },
-geometricError: 205.98594533484862,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 205.98594533484862,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4392084641649525,
 0.6228536797694071,
 2.439412874156853,
@@ -1503,12 +1503,12 @@ region: [
 234.46381023665376
 ]
 },
-uri: "data/data68.b3dm"
+"uri": "data/data68.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439322853590954,
 0.6229359042306459,
 2.4394441461353367,
@@ -1517,11 +1517,11 @@ region: [
 149.91854817749152
 ]
 },
-geometricError: 108.23137736651083,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 108.23137736651083,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439322853590954,
 0.6229359042306459,
 2.4394441461353367,
@@ -1530,12 +1530,12 @@ region: [
 149.91854817749152
 ]
 },
-uri: "data/data53.b3dm"
+"uri": "data/data53.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4393822572160735,
 0.6229738180304967,
 2.4394441461353367,
@@ -1544,11 +1544,11 @@ region: [
 101.96992490155625
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4393822572160735,
 0.6229738180304967,
 2.4394441461353367,
@@ -1557,13 +1557,13 @@ region: [
 101.96992490155625
 ]
 },
-uri: "data/data49.b3dm"
+"uri": "data/data49.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4393229703640253,
 0.6229751644615976,
 2.439384093051259,
@@ -1572,11 +1572,11 @@ region: [
 90.34178479397828
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4393229703640253,
 0.6229751644615976,
 2.439384093051259,
@@ -1585,13 +1585,13 @@ region: [
 90.34178479397828
 ]
 },
-uri: "data/data50.b3dm"
+"uri": "data/data50.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439381988693118,
 0.6229352835507385,
 2.439442841949656,
@@ -1600,11 +1600,11 @@ region: [
 81.09838555544647
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439381988693118,
 0.6229352835507385,
 2.439442841949656,
@@ -1613,13 +1613,13 @@ region: [
 81.09838555544647
 ]
 },
-uri: "data/data51.b3dm"
+"uri": "data/data51.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439322853590954,
 0.6229355230218115,
 2.439386027062088,
@@ -1628,11 +1628,11 @@ region: [
 149.91854817749152
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439322853590954,
 0.6229355230218115,
 2.439386027062088,
@@ -1641,15 +1641,15 @@ region: [
 149.91854817749152
 ]
 },
-uri: "data/data52.b3dm"
+"uri": "data/data52.b3dm"
 },
-children: [ ]
+"children": [ ]
 }
 ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4392075321355957,
 0.6229364571067046,
 2.4393260922028652,
@@ -1658,11 +1658,11 @@ region: [
 146.67514662035728
 ]
 },
-geometricError: 148.22047757919916,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 148.22047757919916,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4392075321355957,
 0.6229385145246401,
 2.4392889565639657,
@@ -1671,12 +1671,12 @@ region: [
 146.67514662035728
 ]
 },
-uri: "data/data58.b3dm"
+"uri": "data/data58.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4392686005917996,
 0.6229755022933878,
 2.439326583014093,
@@ -1685,11 +1685,11 @@ region: [
 146.67514662035728
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4392686005917996,
 0.6229755022933878,
 2.439326583014093,
@@ -1698,13 +1698,13 @@ region: [
 146.67514662035728
 ]
 },
-uri: "data/data54.b3dm"
+"uri": "data/data54.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439210568502183,
 0.6229734947826238,
 2.4392698325830002,
@@ -1713,11 +1713,11 @@ region: [
 97.37112349559484
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439210568502183,
 0.6229734947826238,
 2.4392698325830002,
@@ -1726,13 +1726,13 @@ region: [
 97.37112349559484
 ]
 },
-uri: "data/data55.b3dm"
+"uri": "data/data55.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4392677773930718,
 0.6229355539669854,
 2.4393269159700637,
@@ -1741,11 +1741,11 @@ region: [
 122.38331768237808
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4392677773930718,
 0.6229355539669854,
 2.4393269159700637,
@@ -1754,13 +1754,13 @@ region: [
 122.38331768237808
 ]
 },
-uri: "data/data56.b3dm"
+"uri": "data/data56.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4392075321355957,
 0.6229335437005413,
 2.439268854209937,
@@ -1769,11 +1769,11 @@ region: [
 113.53960130732051
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4392075321355957,
 0.6229335437005413,
 2.4392666090529556,
@@ -1782,15 +1782,15 @@ region: [
 113.53960130732051
 ]
 },
-uri: "data/data57.b3dm"
+"uri": "data/data57.b3dm"
 },
-children: [ ]
+"children": [ ]
 }
 ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439319764529901,
 0.6228536797694071,
 2.439440568188721,
@@ -1799,11 +1799,11 @@ region: [
 234.46381023665376
 ]
 },
-geometricError: 195.2977422638731,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 195.2977422638731,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439319764529901,
 0.6228536797694071,
 2.439412874156853,
@@ -1812,12 +1812,12 @@ region: [
 234.46381023665376
 ]
 },
-uri: "data/data63.b3dm"
+"uri": "data/data63.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4393815192985584,
 0.6228963602416704,
 2.4394415151584212,
@@ -1826,11 +1826,11 @@ region: [
 97.91176550394079
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4393815192985584,
 0.6228963602416704,
 2.4394415151584212,
@@ -1839,13 +1839,13 @@ region: [
 97.91176550394079
 ]
 },
-uri: "data/data59.b3dm"
+"uri": "data/data59.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439324747778813,
 0.6228937776037562,
 2.4393841434459786,
@@ -1854,11 +1854,11 @@ region: [
 86.37630792426316
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439324747778813,
 0.6228937776037562,
 2.4393841434459786,
@@ -1867,13 +1867,13 @@ region: [
 86.37630792426316
 ]
 },
-uri: "data/data60.b3dm"
+"uri": "data/data60.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4393829699340754,
 0.6228573266786523,
 2.4394408256628033,
@@ -1882,11 +1882,11 @@ region: [
 97.78498015569963
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4393829699340754,
 0.6228573266786523,
 2.4394408256628033,
@@ -1895,13 +1895,13 @@ region: [
 97.78498015569963
 ]
 },
-uri: "data/data61.b3dm"
+"uri": "data/data61.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439319764529901,
 0.6228536797694071,
 2.4393842088972666,
@@ -1910,11 +1910,11 @@ region: [
 234.46381023665376
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439319764529901,
 0.6228536797694071,
 2.4393842088972666,
@@ -1923,15 +1923,15 @@ region: [
 234.46381023665376
 ]
 },
-uri: "data/data62.b3dm"
+"uri": "data/data62.b3dm"
 },
-children: [ ]
+"children": [ ]
 }
 ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4392084641649525,
 0.6228575027067945,
 2.439328795522166,
@@ -1940,11 +1940,11 @@ region: [
 219.71490187888017
 ]
 },
-geometricError: 205.9830377372725,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 205.9830377372725,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4392084641649525,
 0.6228633257330322,
 2.439328795522166,
@@ -1953,12 +1953,12 @@ region: [
 219.71490187888017
 ]
 },
-uri: "data/data67.b3dm"
+"uri": "data/data67.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4392681365931734,
 0.6228950798293529,
 2.439328795522166,
@@ -1967,11 +1967,11 @@ region: [
 108.30413111634311
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4392681365931734,
 0.6228950798293529,
 2.439328795522166,
@@ -1980,13 +1980,13 @@ region: [
 108.30413111634311
 ]
 },
-uri: "data/data64.b3dm"
+"uri": "data/data64.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4392084641649525,
 0.6228969799067495,
 2.439274491575331,
@@ -1995,11 +1995,11 @@ region: [
 150.3670724137599
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4392084641649525,
 0.622915569828139,
 2.439274491575331,
@@ -2008,13 +2008,13 @@ region: [
 150.3670724137599
 ]
 },
-uri: "data/data65.b3dm"
+"uri": "data/data65.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439268854209937,
 0.6228575027067945,
 2.4393263720063874,
@@ -2023,11 +2023,11 @@ region: [
 219.71490187888017
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439294043857076,
 0.6228633257330322,
 2.4393263720063874,
@@ -2036,9 +2036,9 @@ region: [
 219.71490187888017
 ]
 },
-uri: "data/data66.b3dm"
+"uri": "data/data66.b3dm"
 },
-children: [ ]
+"children": [ ]
 }
 ]
 }
@@ -2047,8 +2047,8 @@ children: [ ]
 ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.438753712273588,
 0.6228575027067945,
 2.4392116162170097,
@@ -2057,11 +2057,11 @@ region: [
 193.64127478548397
 ]
 },
-geometricError: 233.499977318427,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 233.499977318427,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4388357069244777,
 0.6228602981530543,
 2.4391864397235166,
@@ -2070,12 +2070,12 @@ region: [
 193.64127478548397
 ]
 },
-uri: "data/data120.b3dm"
+"uri": "data/data120.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.438979647190948,
 0.6230154115066148,
 2.4392116162170097,
@@ -2084,11 +2084,11 @@ region: [
 191.21451109168802
 ]
 },
-geometricError: 233.49338252795368,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 233.49338252795368,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.438979647190948,
 0.6230194234893525,
 2.4391864397235166,
@@ -2097,12 +2097,12 @@ region: [
 191.21451109168802
 ]
 },
-uri: "data/data86.b3dm"
+"uri": "data/data86.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4390967209895065,
 0.6230935874545236,
 2.439214636350547,
@@ -2111,11 +2111,11 @@ region: [
 99.01386586895181
 ]
 },
-geometricError: 233.4966799687861,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 233.4966799687861,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4390967209895065,
 0.6230935874545236,
 2.439214636350547,
@@ -2124,12 +2124,12 @@ region: [
 99.01386586895181
 ]
 },
-uri: "data/data72.b3dm"
+"uri": "data/data72.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4391394492249034,
 0.6230934014009726,
 2.439214636350547,
@@ -2138,11 +2138,11 @@ region: [
 99.01386586895181
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4391394492249034,
 0.6230934014009726,
 2.439214636350547,
@@ -2151,13 +2151,13 @@ region: [
 99.01386586895181
 ]
 },
-uri: "data/data70.b3dm"
+"uri": "data/data70.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4390967209895065,
 0.6230934972875001,
 2.4391559160734015,
@@ -2166,11 +2166,11 @@ region: [
 82.31177405646962
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4390967209895065,
 0.6230934972875001,
 2.4391559160734015,
@@ -2179,15 +2179,15 @@ region: [
 82.31177405646962
 ]
 },
-uri: "data/data71.b3dm"
+"uri": "data/data71.b3dm"
 },
-children: [ ]
+"children": [ ]
 }
 ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4389826642452985,
 0.6230901032323808,
 2.4391009975850597,
@@ -2196,11 +2196,11 @@ region: [
 129.78784993034344
 ]
 },
-geometricError: 158.16279949033859,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 158.16279949033859,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.438994616227369,
 0.6230901032323808,
 2.4391009975850597,
@@ -2209,12 +2209,12 @@ region: [
 129.78784993034344
 ]
 },
-uri: "data/data75.b3dm"
+"uri": "data/data75.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4390380656658883,
 0.6230901032323808,
 2.4391009975850597,
@@ -2223,11 +2223,11 @@ region: [
 129.78784993034344
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4390380656658883,
 0.6230901032323808,
 2.4391009975850597,
@@ -2236,13 +2236,13 @@ region: [
 129.78784993034344
 ]
 },
-uri: "data/data73.b3dm"
+"uri": "data/data73.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4389826642452985,
 0.6230921056543638,
 2.439042403230924,
@@ -2251,11 +2251,11 @@ region: [
 118.50717535540986
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.438994616227369,
 0.6230921056543638,
 2.439042403230924,
@@ -2264,15 +2264,15 @@ region: [
 118.50717535540986
 ]
 },
-uri: "data/data74.b3dm"
+"uri": "data/data74.b3dm"
 },
-children: [ ]
+"children": [ ]
 }
 ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4390917448471114,
 0.6230142645881372,
 2.439212842967875,
@@ -2281,11 +2281,11 @@ region: [
 187.15892975583012
 ]
 },
-geometricError: 148.04758804124828,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 148.04758804124828,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4390917448471114,
 0.6230142645881372,
 2.439212842967875,
@@ -2294,12 +2294,12 @@ region: [
 187.15892975583012
 ]
 },
-uri: "data/data80.b3dm"
+"uri": "data/data80.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4391532217627856,
 0.623053767001328,
 2.439215267632947,
@@ -2308,11 +2308,11 @@ region: [
 126.40855909965359
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4391532217627856,
 0.623053767001328,
 2.439215267632947,
@@ -2321,13 +2321,13 @@ region: [
 126.40855909965359
 ]
 },
-uri: "data/data76.b3dm"
+"uri": "data/data76.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4390956854178962,
 0.6230535397848768,
 2.4391559104886866,
@@ -2336,11 +2336,11 @@ region: [
 187.15892975583012
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4390956854178962,
 0.6230535397848768,
 2.4391559104886866,
@@ -2349,13 +2349,13 @@ region: [
 187.15892975583012
 ]
 },
-uri: "data/data77.b3dm"
+"uri": "data/data77.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4391523946306966,
 0.623013659206194,
 2.439213768002004,
@@ -2364,11 +2364,11 @@ region: [
 111.75091134784952
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4391523946306966,
 0.623013659206194,
 2.439213768002004,
@@ -2377,13 +2377,13 @@ region: [
 111.75091134784952
 ]
 },
-uri: "data/data78.b3dm"
+"uri": "data/data78.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4390917448471114,
 0.6230142645881372,
 2.4391559122019277,
@@ -2392,11 +2392,11 @@ region: [
 111.02031498601347
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4390917448471114,
 0.6230142645881372,
 2.4391559122019277,
@@ -2405,15 +2405,15 @@ region: [
 111.02031498601347
 ]
 },
-uri: "data/data79.b3dm"
+"uri": "data/data79.b3dm"
 },
-children: [ ]
+"children": [ ]
 }
 ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.438977568583073,
 0.6230154115066148,
 2.439102567786323,
@@ -2422,11 +2422,11 @@ region: [
 191.21451109168802
 ]
 },
-geometricError: 141.1501168525088,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 141.1501168525088,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.438977568583073,
 0.6230189224914808,
 2.439102567786323,
@@ -2435,12 +2435,12 @@ region: [
 191.21451109168802
 ]
 },
-uri: "data/data85.b3dm"
+"uri": "data/data85.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4390378197840015,
 0.6230541629346306,
 2.439102567786323,
@@ -2449,11 +2449,11 @@ region: [
 121.15261077050775
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4390378197840015,
 0.6230541629346306,
 2.439102567786323,
@@ -2462,13 +2462,13 @@ region: [
 121.15261077050775
 ]
 },
-uri: "data/data81.b3dm"
+"uri": "data/data81.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.438979647190948,
 0.623053501171571,
 2.4390425549784234,
@@ -2477,11 +2477,11 @@ region: [
 191.21451109168802
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.438979647190948,
 0.623053501171571,
 2.4390425549784234,
@@ -2490,13 +2490,13 @@ region: [
 191.21451109168802
 ]
 },
-uri: "data/data82.b3dm"
+"uri": "data/data82.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4390376011556563,
 0.6230115390815717,
 2.4390984971236778,
@@ -2505,11 +2505,11 @@ region: [
 85.65326065505384
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4390376011556563,
 0.6230115390815717,
 2.4390984971236778,
@@ -2518,13 +2518,13 @@ region: [
 85.65326065505384
 ]
 },
-uri: "data/data83.b3dm"
+"uri": "data/data83.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.438977568583073,
 0.6230124974493513,
 2.43904192254555,
@@ -2533,11 +2533,11 @@ region: [
 115.64541615812597
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.438977568583073,
 0.6230124974493513,
 2.43904192254555,
@@ -2546,17 +2546,17 @@ region: [
 115.64541615812597
 ]
 },
-uri: "data/data84.b3dm"
+"uri": "data/data84.b3dm"
 },
-children: [ ]
+"children": [ ]
 }
 ]
 }
 ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.438753712273588,
 0.6230115792324191,
 2.438985828261413,
@@ -2565,11 +2565,11 @@ region: [
 193.64127478548397
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4389410295653655,
 0.6230115792324191,
 2.438985828261413,
@@ -2578,13 +2578,13 @@ region: [
 193.64127478548397
 ]
 },
-uri: "data/data87.b3dm"
+"uri": "data/data87.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4389826642452985,
 0.6228575027067945,
 2.4392116162170097,
@@ -2593,11 +2593,11 @@ region: [
 148.8326271768994
 ]
 },
-geometricError: 113.73789826136331,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 113.73789826136331,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4389827569873233,
 0.6228959839899345,
 2.4391956743833183,
@@ -2606,12 +2606,12 @@ region: [
 148.8326271768994
 ]
 },
-uri: "data/data103.b3dm"
+"uri": "data/data103.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439097054328326,
 0.6229359704305847,
 2.4392116162170097,
@@ -2620,11 +2620,11 @@ region: [
 148.8326271768994
 ]
 },
-geometricError: 105.99403195854075,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 105.99403195854075,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439097054328326,
 0.6229359704305847,
 2.4392034145420065,
@@ -2633,12 +2633,12 @@ region: [
 148.8326271768994
 ]
 },
-uri: "data/data92.b3dm"
+"uri": "data/data92.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4391517830529086,
 0.6229720029766703,
 2.4392122296036285,
@@ -2647,11 +2647,11 @@ region: [
 137.9465888783978
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4391517830529086,
 0.6229720029766703,
 2.4392122296036285,
@@ -2660,13 +2660,13 @@ region: [
 137.9465888783978
 ]
 },
-uri: "data/data88.b3dm"
+"uri": "data/data88.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439097140231154,
 0.6229759343066597,
 2.439154773095552,
@@ -2675,11 +2675,11 @@ region: [
 148.8326271768994
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439097199882969,
 0.6229783869141899,
 2.439154773095552,
@@ -2688,13 +2688,13 @@ region: [
 148.8326271768994
 ]
 },
-uri: "data/data89.b3dm"
+"uri": "data/data89.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4391535143285408,
 0.6229359704305847,
 2.4392148936377818,
@@ -2703,11 +2703,11 @@ region: [
 99.56366879727082
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4391535143285408,
 0.6229359704305847,
 2.4392148936377818,
@@ -2716,13 +2716,13 @@ region: [
 99.56366879727082
 ]
 },
-uri: "data/data90.b3dm"
+"uri": "data/data90.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439097054328326,
 0.6229364571067046,
 2.4391550862463474,
@@ -2731,11 +2731,11 @@ region: [
 95.95990626979584
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439097054328326,
 0.6229433780160349,
 2.4391550862463474,
@@ -2744,15 +2744,15 @@ region: [
 95.95990626979584
 ]
 },
-uri: "data/data91.b3dm"
+"uri": "data/data91.b3dm"
 },
-children: [ ]
+"children": [ ]
 }
 ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4389826642452985,
 0.6229364571067046,
 2.4391054202026856,
@@ -2761,11 +2761,11 @@ region: [
 118.06862069855876
 ]
 },
-geometricError: 113.73787684926032,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 113.73787684926032,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.438983806057499,
 0.6229412000522692,
 2.4391054202026856,
@@ -2774,12 +2774,12 @@ region: [
 118.06862069855876
 ]
 },
-uri: "data/data97.b3dm"
+"uri": "data/data97.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.43903812501048,
 0.6229724273916095,
 2.439098207053083,
@@ -2788,11 +2788,11 @@ region: [
 100.54534528857225
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.43903812501048,
 0.6229724273916095,
 2.439098207053083,
@@ -2801,13 +2801,13 @@ region: [
 100.54534528857225
 ]
 },
-uri: "data/data93.b3dm"
+"uri": "data/data93.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.438981907578965,
 0.6229759343066597,
 2.4390405532463277,
@@ -2816,11 +2816,11 @@ region: [
 104.55650508847194
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.438981907578965,
 0.6229761750339186,
 2.4390405532463277,
@@ -2829,13 +2829,13 @@ region: [
 104.55650508847194
 ]
 },
-uri: "data/data94.b3dm"
+"uri": "data/data94.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439039416152225,
 0.6229364571067046,
 2.4391054202026856,
@@ -2844,11 +2844,11 @@ region: [
 80.70641046381374
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439039416152225,
 0.622939903360556,
 2.4391054202026856,
@@ -2857,13 +2857,13 @@ region: [
 80.70641046381374
 ]
 },
-uri: "data/data95.b3dm"
+"uri": "data/data95.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4389811527346197,
 0.6229343931522959,
 2.4390409615959547,
@@ -2872,11 +2872,11 @@ region: [
 118.06862069855876
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4389811527346197,
 0.6229343931522959,
 2.4390409615959547,
@@ -2885,15 +2885,15 @@ region: [
 118.06862069855876
 ]
 },
-uri: "data/data96.b3dm"
+"uri": "data/data96.b3dm"
 },
-children: [ ]
+"children": [ ]
 }
 ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439097140231154,
 0.6228575027067945,
 2.4392116162170097,
@@ -2902,11 +2902,11 @@ region: [
 77.59107661570427
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439099325981547,
 0.6228988443535572,
 2.4392091915708374,
@@ -2915,13 +2915,13 @@ region: [
 77.59107661570427
 ]
 },
-uri: "data/data98.b3dm"
+"uri": "data/data98.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.43898087062332,
 0.6228575027067945,
 2.439097140231154,
@@ -2930,11 +2930,11 @@ region: [
 123.07517565317349
 ]
 },
-geometricError: 100.57644128494472,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 100.57644128494472,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.43898087062332,
 0.6228604120040079,
 2.439046192239134,
@@ -2943,12 +2943,12 @@ region: [
 123.07517565317349
 ]
 },
-uri: "data/data102.b3dm"
+"uri": "data/data102.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439036770476926,
 0.6228969799067495,
 2.439097140231154,
@@ -2957,11 +2957,11 @@ region: [
 109.93625910594074
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439036770476926,
 0.6229043133662914,
 2.4390563215008476,
@@ -2970,13 +2970,13 @@ region: [
 109.93625910594074
 ]
 },
-uri: "data/data99.b3dm"
+"uri": "data/data99.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.43898087062332,
 0.6228926928146172,
 2.439040349728007,
@@ -2985,11 +2985,11 @@ region: [
 123.07517565317349
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.43898087062332,
 0.6228926928146172,
 2.439040349728007,
@@ -2998,13 +2998,13 @@ region: [
 123.07517565317349
 ]
 },
-uri: "data/data100.b3dm"
+"uri": "data/data100.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.438979823015027,
 0.6228575027067945,
 2.439039902238226,
@@ -3013,11 +3013,11 @@ region: [
 104.9374209660512
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.438979823015027,
 0.622858306209831,
 2.4390185136819764,
@@ -3026,17 +3026,17 @@ region: [
 104.9374209660512
 ]
 },
-uri: "data/data101.b3dm"
+"uri": "data/data101.b3dm"
 },
-children: [ ]
+"children": [ ]
 }
 ]
 }
 ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.438753712273588,
 0.6228575027067945,
 2.4389921256675815,
@@ -3045,11 +3045,11 @@ region: [
 178.30043317079532
 ]
 },
-geometricError: 163.4936777710035,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 163.4936777710035,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4388049114587935,
 0.6228580651527739,
 2.4389921256675815,
@@ -3058,12 +3058,12 @@ region: [
 178.30043317079532
 ]
 },
-uri: "data/data119.b3dm"
+"uri": "data/data119.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.438868188259443,
 0.6229364571067046,
 2.4389921256675815,
@@ -3072,11 +3072,11 @@ region: [
 178.30043317079532
 ]
 },
-geometricError: 124.81683254497679,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 124.81683254497679,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4388760653861152,
 0.6229369724987331,
 2.4389921256675815,
@@ -3085,12 +3085,12 @@ region: [
 178.30043317079532
 ]
 },
-uri: "data/data108.b3dm"
+"uri": "data/data108.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4389254262523705,
 0.6229722890095559,
 2.4389921256675815,
@@ -3099,11 +3099,11 @@ region: [
 178.30043317079532
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4389259094511933,
 0.6229722890095559,
 2.4389921256675815,
@@ -3112,13 +3112,13 @@ region: [
 178.30043317079532
 ]
 },
-uri: "data/data104.b3dm"
+"uri": "data/data104.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.438868188259443,
 0.6229751556352664,
 2.438926141646798,
@@ -3127,11 +3127,11 @@ region: [
 116.96146882437083
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.43891310603107,
 0.6229751556352664,
 2.438926141646798,
@@ -3140,13 +3140,13 @@ region: [
 116.96146882437083
 ]
 },
-uri: "data/data105.b3dm"
+"uri": "data/data105.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4389207670834128,
 0.6229344602882828,
 2.4389851801107136,
@@ -3155,11 +3155,11 @@ region: [
 108.52569177653635
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4389207670834128,
 0.6229344602882828,
 2.4389851801107136,
@@ -3168,13 +3168,13 @@ region: [
 108.52569177653635
 ]
 },
-uri: "data/data106.b3dm"
+"uri": "data/data106.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.438868188259443,
 0.622935124100067,
 2.4389290318000416,
@@ -3183,11 +3183,11 @@ region: [
 108.15771712847554
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.438869963347916,
 0.622935124100067,
 2.4389290318000416,
@@ -3196,15 +3196,15 @@ region: [
 108.15771712847554
 ]
 },
-uri: "data/data107.b3dm"
+"uri": "data/data107.b3dm"
 },
-children: [ ]
+"children": [ ]
 }
 ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.438753712273588,
 0.6229364571067046,
 2.438868188259443,
@@ -3213,11 +3213,11 @@ region: [
 53.63201688351411
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.438846531168208,
 0.6229367224352312,
 2.438850599700345,
@@ -3226,13 +3226,13 @@ region: [
 53.63201688351411
 ]
 },
-uri: "data/data109.b3dm"
+"uri": "data/data109.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4388631635083624,
 0.622852694674915,
 2.4389826642452985,
@@ -3241,11 +3241,11 @@ region: [
 126.2228751419273
 ]
 },
-geometricError: 123.35878477050899,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 123.35878477050899,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4388631635083624,
 0.622852694674915,
 2.438981158482809,
@@ -3254,12 +3254,12 @@ region: [
 126.2228751419273
 ]
 },
-uri: "data/data114.b3dm"
+"uri": "data/data114.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.438923975783074,
 0.6228932305575716,
 2.438986145012931,
@@ -3268,11 +3268,11 @@ region: [
 125.983402721053
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.438923975783074,
 0.6228932305575716,
 2.438986145012931,
@@ -3281,13 +3281,13 @@ region: [
 125.983402721053
 ]
 },
-uri: "data/data110.b3dm"
+"uri": "data/data110.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4388667912563156,
 0.6228949725007832,
 2.438926287377355,
@@ -3296,11 +3296,11 @@ region: [
 126.2228751419273
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4388667912563156,
 0.6228949725007832,
 2.438926287377355,
@@ -3309,13 +3309,13 @@ region: [
 126.2228751419273
 ]
 },
-uri: "data/data111.b3dm"
+"uri": "data/data111.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4389227161808043,
 0.622852694674915,
 2.438984691581936,
@@ -3324,11 +3324,11 @@ region: [
 122.98365816580873
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4389227161808043,
 0.622852694674915,
 2.438984691581936,
@@ -3337,13 +3337,13 @@ region: [
 122.98365816580873
 ]
 },
-uri: "data/data112.b3dm"
+"uri": "data/data112.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4388631635083624,
 0.6228541587894767,
 2.438928666189914,
@@ -3352,11 +3352,11 @@ region: [
 124.15028031849631
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4388631635083624,
 0.6228541587894767,
 2.438928666189914,
@@ -3365,15 +3365,15 @@ region: [
 124.15028031849631
 ]
 },
-uri: "data/data113.b3dm"
+"uri": "data/data113.b3dm"
 },
-children: [ ]
+"children": [ ]
 }
 ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.438753712273588,
 0.6228575027067945,
 2.438868188259443,
@@ -3382,11 +3382,11 @@ region: [
 120.39007999348351
 ]
 },
-geometricError: 163.49136997364175,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 163.49136997364175,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4387838162497437,
 0.6228591473752539,
 2.438868089266135,
@@ -3395,12 +3395,12 @@ region: [
 120.39007999348351
 ]
 },
-uri: "data/data118.b3dm"
+"uri": "data/data118.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.438810950266516,
 0.6228944568856292,
 2.438871220353105,
@@ -3409,11 +3409,11 @@ region: [
 109.87960970687715
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4388120588395257,
 0.6228944568856292,
 2.438871220353105,
@@ -3422,13 +3422,13 @@ region: [
 109.87960970687715
 ]
 },
-uri: "data/data115.b3dm"
+"uri": "data/data115.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4388095312972435,
 0.6228559903091571,
 2.438870397445475,
@@ -3437,11 +3437,11 @@ region: [
 120.39007999348351
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4388095312972435,
 0.6228559903091571,
 2.438870397445475,
@@ -3450,13 +3450,13 @@ region: [
 120.39007999348351
 ]
 },
-uri: "data/data116.b3dm"
+"uri": "data/data116.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.438753712273588,
 0.6228543514204368,
 2.438813752171171,
@@ -3465,11 +3465,11 @@ region: [
 120.18632942399617
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.438754550190654,
 0.6228543514204368,
 2.438813752171171,
@@ -3478,9 +3478,9 @@ region: [
 120.18632942399617
 ]
 },
-uri: "data/data117.b3dm"
+"uri": "data/data117.b3dm"
 },
-children: [ ]
+"children": [ ]
 }
 ]
 }
@@ -3489,8 +3489,8 @@ children: [ ]
 ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4392116162170097,
 0.622541685107154,
 2.439669520160431,
@@ -3499,11 +3499,11 @@ region: [
 243.27157051925863
 ]
 },
-geometricError: 413.2785261224431,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 413.2785261224431,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439243440611118,
 0.6226129729489243,
 2.4394401893651128,
@@ -3512,12 +3512,12 @@ region: [
 243.27157051925863
 ]
 },
-uri: "data/data149.b3dm"
+"uri": "data/data149.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4394362817278332,
 0.6226995939069743,
 2.439669520160431,
@@ -3526,11 +3526,11 @@ region: [
 168.6721506018826
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4394362817278332,
 0.6227678643421654,
 2.4394574040956227,
@@ -3539,13 +3539,13 @@ region: [
 168.6721506018826
 ]
 },
-uri: "data/data121.b3dm"
+"uri": "data/data121.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4392116162170097,
 0.6226989353048334,
 2.439440568188721,
@@ -3554,11 +3554,11 @@ region: [
 243.27157051925863
 ]
 },
-geometricError: 413.2783705381769,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 413.2783705381769,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4393165397729435,
 0.6226989353048334,
 2.4394401893651128,
@@ -3567,12 +3567,12 @@ region: [
 243.27157051925863
 ]
 },
-uri: "data/data134.b3dm"
+"uri": "data/data134.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439323258196408,
 0.6227698071631187,
 2.4394477847002314,
@@ -3581,11 +3581,11 @@ region: [
 235.39769030700347
 ]
 },
-geometricError: 210.20326498091484,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 210.20326498091484,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439323258196408,
 0.6227698071631187,
 2.4394477847002314,
@@ -3594,12 +3594,12 @@ region: [
 235.39769030700347
 ]
 },
-uri: "data/data126.b3dm"
+"uri": "data/data126.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439383330195793,
 0.6228126809512157,
 2.4394419815745003,
@@ -3608,11 +3608,11 @@ region: [
 215.0455334243469
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439384641103906,
 0.6228126809512157,
 2.4394419815745003,
@@ -3621,13 +3621,13 @@ region: [
 215.0455334243469
 ]
 },
-uri: "data/data122.b3dm"
+"uri": "data/data122.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4393260922028652,
 0.6228177282716545,
 2.4393840516528997,
@@ -3636,11 +3636,11 @@ region: [
 235.39769030700347
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439332759142543,
 0.6228177282716545,
 2.4393840516528997,
@@ -3649,13 +3649,13 @@ region: [
 235.39769030700347
 ]
 },
-uri: "data/data123.b3dm"
+"uri": "data/data123.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4393774217179334,
 0.6227771893002537,
 2.4394477847002314,
@@ -3664,11 +3664,11 @@ region: [
 204.7763446529814
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4393774217179334,
 0.6227771893002537,
 2.4394477847002314,
@@ -3677,13 +3677,13 @@ region: [
 204.7763446529814
 ]
 },
-uri: "data/data124.b3dm"
+"uri": "data/data124.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4393215495827865,
 0.6227698071631187,
 2.439383330195793,
@@ -3692,11 +3692,11 @@ region: [
 199.87816337312742
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4393215495827865,
 0.6227698071631187,
 2.439381677953898,
@@ -3705,15 +3705,15 @@ region: [
 199.87816337312742
 ]
 },
-uri: "data/data125.b3dm"
+"uri": "data/data125.b3dm"
 },
-children: [ ]
+"children": [ ]
 }
 ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4392116162170097,
 0.6227759238906173,
 2.439329561348594,
@@ -3722,11 +3722,11 @@ region: [
 188.2139151600736
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439245141550076,
 0.6227759238906173,
 2.439329561348594,
@@ -3735,13 +3735,13 @@ region: [
 188.2139151600736
 ]
 },
-uri: "data/data127.b3dm"
+"uri": "data/data127.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4393165397729435,
 0.6226989353048334,
 2.439440568188721,
@@ -3750,11 +3750,11 @@ region: [
 243.27157051925863
 ]
 },
-geometricError: 413.27844832977996,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 413.27844832977996,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4393165397729435,
 0.6226989353048334,
 2.4394401893651128,
@@ -3763,12 +3763,12 @@ region: [
 243.27157051925863
 ]
 },
-uri: "data/data132.b3dm"
+"uri": "data/data132.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4393748413664396,
 0.6227180073231152,
 2.439440568188721,
@@ -3777,11 +3777,11 @@ region: [
 240.3030439452541
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4393748413664396,
 0.6227180073231152,
 2.4394401893651128,
@@ -3790,13 +3790,13 @@ region: [
 240.3030439452541
 ]
 },
-uri: "data/data128.b3dm"
+"uri": "data/data128.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4393260922028652,
 0.6227293255716619,
 2.4393883782726613,
@@ -3805,11 +3805,11 @@ region: [
 75.62623389697953
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4393290675967823,
 0.6227293255716619,
 2.4393883782726613,
@@ -3818,13 +3818,13 @@ region: [
 75.62623389697953
 ]
 },
-uri: "data/data129.b3dm"
+"uri": "data/data129.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439383330195793,
 0.6226995939069743,
 2.439440568188721,
@@ -3833,11 +3833,11 @@ region: [
 243.27157051925863
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439385792096379,
 0.6227029557731558,
 2.4394242854339083,
@@ -3846,13 +3846,13 @@ region: [
 243.27157051925863
 ]
 },
-uri: "data/data130.b3dm"
+"uri": "data/data130.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4393165397729435,
 0.6226989353048334,
 2.439383330195793,
@@ -3861,11 +3861,11 @@ region: [
 208.76701552342212
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4393165397729435,
 0.6226989353048334,
 2.4393824911889763,
@@ -3874,15 +3874,15 @@ region: [
 208.76701552342212
 ]
 },
-uri: "data/data131.b3dm"
+"uri": "data/data131.b3dm"
 },
-children: [ ]
+"children": [ ]
 }
 ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4392116162170097,
 0.622699074182925,
 2.4393287540426734,
@@ -3891,11 +3891,11 @@ region: [
 180.09863637826828
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4392467818974137,
 0.622699074182925,
 2.4393287540426734,
@@ -3904,15 +3904,15 @@ region: [
 180.09863637826828
 ]
 },
-uri: "data/data133.b3dm"
+"uri": "data/data133.b3dm"
 },
-children: [ ]
+"children": [ ]
 }
 ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4392110824360205,
 0.622541685107154,
 2.439440568188721,
@@ -3921,11 +3921,11 @@ region: [
 220.07181685301452
 ]
 },
-geometricError: 219.811300642003,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 219.811300642003,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4392110824360205,
 0.622541685107154,
 2.4394002407821533,
@@ -3934,12 +3934,12 @@ region: [
 220.07181685301452
 ]
 },
-uri: "data/data148.b3dm"
+"uri": "data/data148.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4393143328116493,
 0.6226206395070643,
 2.439440568188721,
@@ -3948,11 +3948,11 @@ region: [
 188.82176977801174
 ]
 },
-geometricError: 219.81134201497372,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 219.81134201497372,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4393143328116493,
 0.6226258412455492,
 2.4394002407821533,
@@ -3961,12 +3961,12 @@ region: [
 188.82176977801174
 ]
 },
-uri: "data/data138.b3dm"
+"uri": "data/data138.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4393809123745296,
 0.6226601167070192,
 2.439440568188721,
@@ -3975,11 +3975,11 @@ region: [
 188.82176977801174
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4393809123745296,
 0.6226888360268643,
 2.4394002407821533,
@@ -3988,13 +3988,13 @@ region: [
 188.82176977801174
 ]
 },
-uri: "data/data135.b3dm"
+"uri": "data/data135.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4393226278578486,
 0.622652895670928,
 2.439383330195793,
@@ -4003,11 +4003,11 @@ region: [
 103.13112924587305
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4393226278578486,
 0.622652895670928,
 2.4393818165930004,
@@ -4016,13 +4016,13 @@ region: [
 103.13112924587305
 ]
 },
-uri: "data/data136.b3dm"
+"uri": "data/data136.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4393143328116493,
 0.6226206395070643,
 2.439383330195793,
@@ -4031,11 +4031,11 @@ region: [
 135.36526018180442
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4393143328116493,
 0.6226258412455492,
 2.439362691730733,
@@ -4044,15 +4044,15 @@ region: [
 135.36526018180442
 ]
 },
-uri: "data/data137.b3dm"
+"uri": "data/data137.b3dm"
 },
-children: [ ]
+"children": [ ]
 }
 ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4392116162170097,
 0.6226129729489243,
 2.43933982767774,
@@ -4061,11 +4061,11 @@ region: [
 220.07181685301452
 ]
 },
-geometricError: 181.74144511792127,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 181.74144511792127,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439243440611118,
 0.6226129729489243,
 2.43933982767774,
@@ -4074,12 +4074,12 @@ region: [
 220.07181685301452
 ]
 },
-uri: "data/data143.b3dm"
+"uri": "data/data143.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439268854209937,
 0.6226537131733872,
 2.43932904160087,
@@ -4088,11 +4088,11 @@ region: [
 149.837455093169
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4392762175707996,
 0.6226537131733872,
 2.43932904160087,
@@ -4101,13 +4101,13 @@ region: [
 149.837455093169
 ]
 },
-uri: "data/data139.b3dm"
+"uri": "data/data139.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4392116162170097,
 0.6226592730396692,
 2.439268854209937,
@@ -4116,11 +4116,11 @@ region: [
 50.5799947752482
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439212133291577,
 0.6226592730396692,
 2.439264505583338,
@@ -4129,13 +4129,13 @@ region: [
 50.5799947752482
 ]
 },
-uri: "data/data140.b3dm"
+"uri": "data/data140.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439268053566055,
 0.6226157853309091,
 2.43933982767774,
@@ -4144,11 +4144,11 @@ region: [
 148.98673311756002
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439268053566055,
 0.6226157853309091,
 2.43933982767774,
@@ -4157,13 +4157,13 @@ region: [
 148.98673311756002
 ]
 },
-uri: "data/data141.b3dm"
+"uri": "data/data141.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4392116162170097,
 0.6226129729489243,
 2.439271819758079,
@@ -4172,11 +4172,11 @@ region: [
 220.07181685301452
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439214444387572,
 0.6226129729489243,
 2.439271819758079,
@@ -4185,15 +4185,15 @@ region: [
 220.07181685301452
 ]
 },
-uri: "data/data142.b3dm"
+"uri": "data/data142.b3dm"
 },
-children: [ ]
+"children": [ ]
 }
 ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4392090547948397,
 0.622541685107154,
 2.4393260922028652,
@@ -4202,11 +4202,11 @@ region: [
 133.03721586110638
 ]
 },
-geometricError: 160.4571700498772,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 160.4571700498772,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4392090547948397,
 0.622541685107154,
 2.439307227847694,
@@ -4215,12 +4215,12 @@ region: [
 133.03721586110638
 ]
 },
-uri: "data/data147.b3dm"
+"uri": "data/data147.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4392644193406317,
 0.6225811623071092,
 2.4393260922028652,
@@ -4229,11 +4229,11 @@ region: [
 110.50995016038948
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4392644193406317,
 0.6225990422145795,
 2.439307227847694,
@@ -4242,13 +4242,13 @@ region: [
 110.50995016038948
 ]
 },
-uri: "data/data144.b3dm"
+"uri": "data/data144.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4392116162170097,
 0.6225734505654626,
 2.4392702707797516,
@@ -4257,11 +4257,11 @@ region: [
 96.75595336828778
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439212187960806,
 0.6225734505654626,
 2.4392702707797516,
@@ -4270,13 +4270,13 @@ region: [
 96.75595336828778
 ]
 },
-uri: "data/data145.b3dm"
+"uri": "data/data145.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4392090547948397,
 0.622541685107154,
 2.439268854209937,
@@ -4285,11 +4285,11 @@ region: [
 133.03721586110638
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4392090547948397,
 0.622541685107154,
 2.4392606644176817,
@@ -4298,9 +4298,9 @@ region: [
 133.03721586110638
 ]
 },
-uri: "data/data146.b3dm"
+"uri": "data/data146.b3dm"
 },
-children: [ ]
+"children": [ ]
 }
 ]
 }
@@ -4309,8 +4309,8 @@ children: [ ]
 ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.438753712273588,
 0.622541685107154,
 2.4392116162170097,
@@ -4319,11 +4319,11 @@ region: [
 236.84007633445955
 ]
 },
-geometricError: 276.69212659380645,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 276.69212659380645,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.438770941698456,
 0.6225590408269069,
 2.4391955082030465,
@@ -4332,12 +4332,12 @@ region: [
 236.84007633445955
 ]
 },
-uri: "data/data193.b3dm"
+"uri": "data/data193.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4389779003367207,
 0.6226995939069743,
 2.4392116162170097,
@@ -4346,11 +4346,11 @@ region: [
 133.2654579667365
 ]
 },
-geometricError: 69.85539725487641,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 69.85539725487641,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4389779003367207,
 0.622781543251087,
 2.43900474451767,
@@ -4359,12 +4359,12 @@ region: [
 133.2654579667365
 ]
 },
-uri: "data/data154.b3dm"
+"uri": "data/data154.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4389779003367207,
 0.6227785483068844,
 2.439097140231154,
@@ -4373,11 +4373,11 @@ region: [
 133.2654579667365
 ]
 },
-geometricError: 69.85539725487641,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 69.85539725487641,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4389779003367207,
 0.622781543251087,
 2.43900474451767,
@@ -4386,12 +4386,12 @@ region: [
 133.2654579667365
 ]
 },
-uri: "data/data152.b3dm"
+"uri": "data/data152.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.438982538203128,
 0.6228180255068396,
 2.439039902238226,
@@ -4400,11 +4400,11 @@ region: [
 100.81138115710704
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.438982538203128,
 0.6228190905744057,
 2.4390106179655393,
@@ -4413,13 +4413,13 @@ region: [
 100.81138115710704
 ]
 },
-uri: "data/data150.b3dm"
+"uri": "data/data150.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4389779003367207,
 0.6227785483068844,
 2.439039902238226,
@@ -4428,11 +4428,11 @@ region: [
 133.2654579667365
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4389779003367207,
 0.622781543251087,
 2.4390028296345267,
@@ -4441,15 +4441,15 @@ region: [
 133.2654579667365
 ]
 },
-uri: "data/data151.b3dm"
+"uri": "data/data151.b3dm"
 },
-children: [ ]
+"children": [ ]
 }
 ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4389826642452985,
 0.6226995939069743,
 2.439097140231154,
@@ -4458,11 +4458,11 @@ region: [
 68.38596671826944
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4389894024187995,
 0.6227536564052556,
 2.438992246040645,
@@ -4471,15 +4471,15 @@ region: [
 68.38596671826944
 ]
 },
-uri: "data/data153.b3dm"
+"uri": "data/data153.b3dm"
 },
-children: [ ]
+"children": [ ]
 }
 ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.438753712273588,
 0.6226995939069743,
 2.4389946003628507,
@@ -4488,11 +4488,11 @@ region: [
 225.2747227022972
 ]
 },
-geometricError: 276.6920224293296,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 276.6920224293296,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.438770941698456,
 0.6227139743569413,
 2.4389946003628507,
@@ -4501,12 +4501,12 @@ region: [
 225.2747227022972
 ]
 },
-uri: "data/data174.b3dm"
+"uri": "data/data174.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.438868188259443,
 0.6227785483068844,
 2.4389826642452985,
@@ -4515,11 +4515,11 @@ region: [
 145.44800358209108
 ]
 },
-geometricError: 83.41716495201403,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 83.41716495201403,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4388684190582435,
 0.6227831050019699,
 2.4389773944214967,
@@ -4528,12 +4528,12 @@ region: [
 145.44800358209108
 ]
 },
-uri: "data/data159.b3dm"
+"uri": "data/data159.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4389247124847895,
 0.6228164286283119,
 2.43898552969611,
@@ -4542,11 +4542,11 @@ region: [
 117.51186171636802
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4389247124847895,
 0.6228164286283119,
 2.43898552969611,
@@ -4555,13 +4555,13 @@ region: [
 117.51186171636802
 ]
 },
-uri: "data/data155.b3dm"
+"uri": "data/data155.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.438868101857214,
 0.6228136231481143,
 2.438926720416804,
@@ -4570,11 +4570,11 @@ region: [
 107.18801301136506
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.438868101857214,
 0.6228136231481143,
 2.438926720416804,
@@ -4583,13 +4583,13 @@ region: [
 107.18801301136506
 ]
 },
-uri: "data/data156.b3dm"
+"uri": "data/data156.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4389230336485466,
 0.6227775196174623,
 2.4389850466442016,
@@ -4598,11 +4598,11 @@ region: [
 138.80508967473585
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4389230336485466,
 0.6227775196174623,
 2.4389850466442016,
@@ -4611,13 +4611,13 @@ region: [
 138.80508967473585
 ]
 },
-uri: "data/data157.b3dm"
+"uri": "data/data157.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4388643389306854,
 0.6227776588408757,
 2.438927351806279,
@@ -4626,11 +4626,11 @@ region: [
 145.44800358209108
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4388643389306854,
 0.6227776588408757,
 2.438927351806279,
@@ -4639,15 +4639,15 @@ region: [
 145.44800358209108
 ]
 },
-uri: "data/data158.b3dm"
+"uri": "data/data158.b3dm"
 },
-children: [ ]
+"children": [ ]
 }
 ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.438753712273588,
 0.6227757640880498,
 2.4388695283422543,
@@ -4656,11 +4656,11 @@ region: [
 176.60684693664624
 ]
 },
-geometricError: 175.5419433857647,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 175.5419433857647,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4387667066030865,
 0.6227757640880498,
 2.4388695283422543,
@@ -4669,12 +4669,12 @@ region: [
 176.60684693664624
 ]
 },
-uri: "data/data164.b3dm"
+"uri": "data/data164.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.438807771785987,
 0.6228180255068396,
 2.4388710450039173,
@@ -4683,11 +4683,11 @@ region: [
 116.69155636273136
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.438807771785987,
 0.6228181622367867,
 2.4388710450039173,
@@ -4696,13 +4696,13 @@ region: [
 116.69155636273136
 ]
 },
-uri: "data/data160.b3dm"
+"uri": "data/data160.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.438753712273588,
 0.6228111183253748,
 2.438813856451253,
@@ -4711,11 +4711,11 @@ region: [
 128.4301490726382
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.438753712273588,
 0.6228111183253748,
 2.438813856451253,
@@ -4724,13 +4724,13 @@ region: [
 128.4301490726382
 ]
 },
-uri: "data/data161.b3dm"
+"uri": "data/data161.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4388047738011425,
 0.6227761689019469,
 2.438869576607135,
@@ -4739,11 +4739,11 @@ region: [
 176.60684693664624
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4388047738011425,
 0.6227761689019469,
 2.438869576607135,
@@ -4752,13 +4752,13 @@ region: [
 176.60684693664624
 ]
 },
-uri: "data/data162.b3dm"
+"uri": "data/data162.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.438753712273588,
 0.6227757640880498,
 2.4388119426423254,
@@ -4767,11 +4767,11 @@ region: [
 113.46539406258117
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.438763376256333,
 0.6227757640880498,
 2.4388119426423254,
@@ -4780,15 +4780,15 @@ region: [
 113.46539406258117
 ]
 },
-uri: "data/data163.b3dm"
+"uri": "data/data163.b3dm"
 },
-children: [ ]
+"children": [ ]
 }
 ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.438861422637356,
 0.6226995939069743,
 2.4389946003628507,
@@ -4797,11 +4797,11 @@ region: [
 225.2747227022972
 ]
 },
-geometricError: 178.95040062598198,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 178.95040062598198,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.438861422637356,
 0.6227139743569413,
 2.4389946003628507,
@@ -4810,12 +4810,12 @@ region: [
 225.2747227022972
 ]
 },
-uri: "data/data169.b3dm"
+"uri": "data/data169.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.438921138530259,
 0.6227314953225901,
 2.4389946003628507,
@@ -4824,11 +4824,11 @@ region: [
 161.805474094101
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.438921138530259,
 0.6227314953225901,
 2.4389946003628507,
@@ -4837,13 +4837,13 @@ region: [
 161.805474094101
 ]
 },
-uri: "data/data165.b3dm"
+"uri": "data/data165.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.438868188259443,
 0.6227352558933047,
 2.438926757144295,
@@ -4852,11 +4852,11 @@ region: [
 151.5781262218726
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4388705506974095,
 0.6227352558933047,
 2.438926757144295,
@@ -4865,13 +4865,13 @@ region: [
 151.5781262218726
 ]
 },
-uri: "data/data166.b3dm"
+"uri": "data/data166.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4389230067398064,
 0.6226995939069743,
 2.4389826642452985,
@@ -4880,11 +4880,11 @@ region: [
 160.41937102864097
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4389230067398064,
 0.6227158842019723,
 2.438971008722685,
@@ -4893,13 +4893,13 @@ region: [
 160.41937102864097
 ]
 },
-uri: "data/data167.b3dm"
+"uri": "data/data167.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.438861422637356,
 0.6226995939069743,
 2.4389254262523705,
@@ -4908,11 +4908,11 @@ region: [
 225.2747227022972
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.438861422637356,
 0.6227136165321715,
 2.438924142534839,
@@ -4921,15 +4921,15 @@ region: [
 225.2747227022972
 ]
 },
-uri: "data/data168.b3dm"
+"uri": "data/data168.b3dm"
 },
-children: [ ]
+"children": [ ]
 }
 ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.438753712273588,
 0.6226995939069743,
 2.4388710379166403,
@@ -4938,11 +4938,11 @@ region: [
 175.78854923338295
 ]
 },
-geometricError: 276.69207451121315,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 276.69207451121315,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4387837391112197,
 0.6227191617451087,
 2.4388710379166403,
@@ -4951,12 +4951,12 @@ region: [
 175.78854923338295
 ]
 },
-uri: "data/data173.b3dm"
+"uri": "data/data173.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4388082801357145,
 0.6227191617451087,
 2.4388710379166403,
@@ -4965,11 +4965,11 @@ region: [
 175.78854923338295
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4388082801357145,
 0.6227191617451087,
 2.4388710379166403,
@@ -4978,13 +4978,13 @@ region: [
 175.78854923338295
 ]
 },
-uri: "data/data170.b3dm"
+"uri": "data/data170.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.438753712273588,
 0.6227374299708861,
 2.43881100314835,
@@ -4993,11 +4993,11 @@ region: [
 104.7901132407482
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.438779567528083,
 0.6227374299708861,
 2.43881100314835,
@@ -5006,13 +5006,13 @@ region: [
 104.7901132407482
 ]
 },
-uri: "data/data171.b3dm"
+"uri": "data/data171.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.438810950266516,
 0.6226995939069743,
 2.438868188259443,
@@ -5021,11 +5021,11 @@ region: [
 79.64306269309871
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4388130051007906,
 0.622715184741734,
 2.4388671932455805,
@@ -5034,17 +5034,17 @@ region: [
 79.64306269309871
 ]
 },
-uri: "data/data172.b3dm"
+"uri": "data/data172.b3dm"
 },
-children: [ ]
+"children": [ ]
 }
 ]
 }
 ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4389826642452985,
 0.622541685107154,
 2.4392116162170097,
@@ -5053,11 +5053,11 @@ region: [
 221.10011843009426
 ]
 },
-geometricError: 174.48547277963803,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 174.48547277963803,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4390025505086887,
 0.6225518248968307,
 2.439201343950325,
@@ -5066,12 +5066,12 @@ region: [
 221.10011843009426
 ]
 },
-uri: "data/data185.b3dm"
+"uri": "data/data185.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439097140231154,
 0.6226206395070643,
 2.4392127020601793,
@@ -5080,11 +5080,11 @@ region: [
 57.547517711309425
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.43916016561603,
 0.6226220566086106,
 2.4392127020601793,
@@ -5093,13 +5093,13 @@ region: [
 57.547517711309425
 ]
 },
-uri: "data/data175.b3dm"
+"uri": "data/data175.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439097140231154,
 0.622541685107154,
 2.439213222186848,
@@ -5108,11 +5108,11 @@ region: [
 182.50631506358627
 ]
 },
-geometricError: 141.28754546819547,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 141.28754546819547,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4390983108502775,
 0.6225498925957118,
 2.439213222186848,
@@ -5121,12 +5121,12 @@ region: [
 182.50631506358627
 ]
 },
-uri: "data/data179.b3dm"
+"uri": "data/data179.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4391512918800675,
 0.6225774400146433,
 2.4392116162170097,
@@ -5135,11 +5135,11 @@ region: [
 81.76483149889694
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4391512918800675,
 0.6225774400146433,
 2.439201343950325,
@@ -5148,13 +5148,13 @@ region: [
 81.76483149889694
 ]
 },
-uri: "data/data176.b3dm"
+"uri": "data/data176.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439154241434288,
 0.622541685107154,
 2.4392151465354166,
@@ -5163,11 +5163,11 @@ region: [
 166.42002560086098
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439154241434288,
 0.6225477996121497,
 2.4392151465354166,
@@ -5176,13 +5176,13 @@ region: [
 166.42002560086098
 ]
 },
-uri: "data/data177.b3dm"
+"uri": "data/data177.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439097140231154,
 0.622541685107154,
 2.439155299636939,
@@ -5191,11 +5191,11 @@ region: [
 182.50631506358627
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4390983108502775,
 0.622564363323209,
 2.439155299636939,
@@ -5204,15 +5204,15 @@ region: [
 182.50631506358627
 ]
 },
-uri: "data/data178.b3dm"
+"uri": "data/data178.b3dm"
 },
-children: [ ]
+"children": [ ]
 }
 ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4389826642452985,
 0.622541685107154,
 2.439097140231154,
@@ -5221,11 +5221,11 @@ region: [
 221.10011843009426
 ]
 },
-geometricError: 174.48547277963803,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 174.48547277963803,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4390025505086887,
 0.6225518248968307,
 2.4390698712243473,
@@ -5234,12 +5234,12 @@ region: [
 221.10011843009426
 ]
 },
-uri: "data/data184.b3dm"
+"uri": "data/data184.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439039902238226,
 0.6225811623071092,
 2.439097140231154,
@@ -5248,11 +5248,11 @@ region: [
 221.10011843009426
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4390402063729746,
 0.6225840484657199,
 2.4390698712243473,
@@ -5261,13 +5261,13 @@ region: [
 221.10011843009426
 ]
 },
-uri: "data/data180.b3dm"
+"uri": "data/data180.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4389826642452985,
 0.6225791764221235,
 2.43904413748353,
@@ -5276,11 +5276,11 @@ region: [
 127.91183060396014
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.438985360532213,
 0.6225791764221235,
 2.43904413748353,
@@ -5289,13 +5289,13 @@ region: [
 127.91183060396014
 ]
 },
-uri: "data/data181.b3dm"
+"uri": "data/data181.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.439035207586129,
 0.622541685107154,
 2.439097140231154,
@@ -5304,11 +5304,11 @@ region: [
 192.10998575550582
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439035207586129,
 0.6225509864378603,
 2.4390685264425462,
@@ -5317,13 +5317,13 @@ region: [
 192.10998575550582
 ]
 },
-uri: "data/data182.b3dm"
+"uri": "data/data182.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4389826642452985,
 0.622541685107154,
 2.439044762468451,
@@ -5332,11 +5332,11 @@ region: [
 125.83379329732935
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.439014939512854,
 0.6225670686353628,
 2.439044762468451,
@@ -5345,17 +5345,17 @@ region: [
 125.83379329732935
 ]
 },
-uri: "data/data183.b3dm"
+"uri": "data/data183.b3dm"
 },
-children: [ ]
+"children": [ ]
 }
 ]
 }
 ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.438753712273588,
 0.622541685107154,
 2.4389826642452985,
@@ -5364,11 +5364,11 @@ region: [
 236.84007633445955
 ]
 },
-geometricError: 193.3548402649056,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 193.3548402649056,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4388926118878,
 0.6226052357701982,
 2.438946756165365,
@@ -5377,12 +5377,12 @@ region: [
 236.84007633445955
 ]
 },
-uri: "data/data192.b3dm"
+"uri": "data/data192.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.438868188259443,
 0.6226206395070643,
 2.4389826642452985,
@@ -5391,11 +5391,11 @@ region: [
 202.36373427722373
 ]
 },
-geometricError: 157.35856695642968,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 157.35856695642968,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4388926118878,
 0.6226234700926878,
 2.438946756165365,
@@ -5404,12 +5404,12 @@ region: [
 202.36373427722373
 ]
 },
-uri: "data/data190.b3dm"
+"uri": "data/data190.b3dm"
 },
-children: [
+"children": [
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.438923943076522,
 0.6226601167070192,
 2.4389826642452985,
@@ -5418,11 +5418,11 @@ region: [
 108.28513309731645
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.438923943076522,
 0.622671532192686,
 2.438942026164107,
@@ -5431,13 +5431,13 @@ region: [
 108.28513309731645
 ]
 },
-uri: "data/data186.b3dm"
+"uri": "data/data186.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.438868188259443,
 0.6226561432184395,
 2.4389295292169884,
@@ -5446,11 +5446,11 @@ region: [
 202.36373427722373
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.4388926118878,
 0.6226561432184395,
 2.4389295292169884,
@@ -5459,13 +5459,13 @@ region: [
 202.36373427722373
 ]
 },
-uri: "data/data187.b3dm"
+"uri": "data/data187.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.4389254262523705,
 0.6226206395070643,
 2.4389826642452985,
@@ -5474,11 +5474,11 @@ region: [
 159.7217647649023
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.438926139771219,
 0.6226237589149626,
 2.438948991825629,
@@ -5487,13 +5487,13 @@ region: [
 159.7217647649023
 ]
 },
-uri: "data/data188.b3dm"
+"uri": "data/data188.b3dm"
 },
-children: [ ]
+"children": [ ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.438868188259443,
 0.6226196857772965,
 2.438927839529528,
@@ -5502,11 +5502,11 @@ region: [
 86.35366989596423
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.438894280854959,
 0.6226196857772965,
 2.438927839529528,
@@ -5515,15 +5515,15 @@ region: [
 86.35366989596423
 ]
 },
-uri: "data/data189.b3dm"
+"uri": "data/data189.b3dm"
 },
-children: [ ]
+"children": [ ]
 }
 ]
 },
 {
-boundingVolume: {
-region: [
+"boundingVolume": {
+"region": [
 2.438868188259443,
 0.622541685107154,
 2.4389826642452985,
@@ -5532,11 +5532,11 @@ region: [
 236.84007633445955
 ]
 },
-geometricError: 0,
-refine: "REPLACE",
-content: {
-boundingVolume: {
-region: [
+"geometricError": 0,
+"refine": "REPLACE",
+"content": {
+"boundingVolume": {
+"region": [
 2.438922826367723,
 0.6226049622274205,
 2.4389450405357462,
@@ -5545,9 +5545,9 @@ region: [
 236.84007633445955
 ]
 },
-uri: "data/data191.b3dm"
+"uri": "data/data191.b3dm"
 },
-children: [ ]
+"children": [ ]
 }
 ]
 }
